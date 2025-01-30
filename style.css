@@ -399,6 +399,7 @@ background-color: #F2F2F2;
 
     .searchbar__s1 {
         width: 70%;
+        display: flex;
     }
     .text-section__1, .text-section__2, .image__section__3__text,.image__section__4__text,.image__section__5__text,.image__section__6__text {
         margin: 20px;
@@ -421,6 +422,7 @@ background-color: #F2F2F2;
 
     .searchbar__s1 {
         width: 90%;
+        display: flex;
     }
 
     .categories {
@@ -458,6 +460,7 @@ background-color: #F2F2F2;
         align-items: center;
         width: 90%;
         padding: 8px;
+        display: flex;
     }
 
     .searchbar__s1 button {
